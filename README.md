@@ -24,7 +24,7 @@ Whether you're a beginner looking to start your own frontend development journey
 Feel free to explore the different sections and dive into the topics that interest you the most. Happy learning!
 
 
-#### Month One 
+# Month One 
 
 
 # Week Zero
@@ -47,7 +47,7 @@ Feel free to explore the different sections and dive into the topics that intere
 - Vanilla JS: You Might Not Need a Framework    [3]
 - Web Performance Fundamentals                  [2]
 
-#### Month Two 
+# Month Two 
 
 # Week Four
 - Full Stack for Front-End Engineers, v3        [3]
@@ -72,6 +72,9 @@ Feel free to explore the different sections and dive into the topics that intere
 - The Hard Parts of UI Development              [4]
 - Git In-depth                                  [3]     
 
+
+# Month three
+
 # Week Nine
 - Functional-Light JavaScript, v3               [5]
 - State Machines in JavaScript with XState, v2  [2]
@@ -82,7 +85,7 @@ Feel free to explore the different sections and dive into the topics that intere
 - Introduction to Next.js 13+, v3               [3]
 
 # Week Elevine
-
+Design to code 
 
 # Week Twelive
 This is just the beginning of your frontend development journey. Keep exploring and learning, and don't hesitate to reach out if you have any questions. Good luck!
