@@ -28,15 +28,14 @@ Feel free to explore the different sections and dive into the topics that intere
 
 
 # Week Zero
-- CSS Foundation                                [3] 
-- Getting Started with JavaScript, v2           [1]
-- Modern Search Engine Optimization (SEO)       [2]
+- CSS Foundation                                [5] 
+- Website Accessibility, v2                     [2]
 
 # Week One
 - JavaScript: From First Steps to Professional  [3]
-- Website Accessibility, v2                     [2]
 - Getting a Software Engineering Job, v2        [1]
 - Introduction to Dev Tools, v3                 [1]
+- Modern Search Engine Optimization (SEO)       [2]
 
 # Week Two
 - JavaScript: The Hard Parts, v2                [3]
